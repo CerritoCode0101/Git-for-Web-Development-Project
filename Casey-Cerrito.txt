@@ -125,6 +125,6 @@ link to finished codepen https://codepen.io/CodeKing0101/pen/zYqdVeR
     
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
 
-
+Done.
 
    -->
